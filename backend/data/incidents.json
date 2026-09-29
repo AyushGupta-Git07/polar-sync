@@ -1,0 +1,72 @@
+[
+  {
+    "id": "INC-2026-081",
+    "type": "Equipment Mechanical Seizure",
+    "severity": "Elevated",
+    "timestamp": "2026-09-29T16:38:54.970Z",
+    "details": "PB-04 hydraulic valve freeze warning triggered at Waypoint 4 during ice-shelf transect.",
+    "status": "Under Monitoring",
+    "reportedBy": "Suresh Nair"
+  },
+  {
+    "id": "INC-2026-079",
+    "type": "Maritime Fast-Ice Ingress",
+    "severity": "High",
+    "timestamp": "2026-09-29T04:38:54.972Z",
+    "details": "Vessel C-102 locked in heavy fast-ice at 68°S. Generator spare parts delivery delayed +10 to +14 days.",
+    "status": "Contingency Active",
+    "reportedBy": "Ashish Saini"
+  },
+  {
+    "id": "INC-1790709917879",
+    "title": "Katabatic Gale Surge Detected",
+    "type": "Katabatic Gale Surge Detected",
+    "details": "Wind gusts exceeding 50 knots recorded by acoustic anemometer.",
+    "description": "Wind gusts exceeding 50 knots recorded by acoustic anemometer.",
+    "severity": "warning",
+    "location": "Maitri North Ridgeline",
+    "timestamp": "2026-09-29T19:25:17.879Z",
+    "status": "Active / Queued",
+    "reportedBy": "admin",
+    "role": "Station Admin"
+  },
+  {
+    "id": "INC-1790709943287",
+    "title": "Katabatic Gale Surge Detected",
+    "type": "Katabatic Gale Surge Detected",
+    "details": "Wind gusts exceeding 50 knots recorded by acoustic anemometer.",
+    "description": "Wind gusts exceeding 50 knots recorded by acoustic anemometer.",
+    "severity": "warning",
+    "location": "Maitri North Ridgeline",
+    "timestamp": "2026-09-29T19:25:43.288Z",
+    "status": "Active / Queued",
+    "reportedBy": "admin",
+    "role": "Station Admin"
+  },
+  {
+    "id": "INC-1790710300694",
+    "title": "Katabatic Gale Surge Detected",
+    "type": "Katabatic Gale Surge Detected",
+    "details": "Wind gusts exceeding 50 knots recorded by acoustic anemometer.",
+    "description": "Wind gusts exceeding 50 knots recorded by acoustic anemometer.",
+    "severity": "warning",
+    "location": "Maitri North Ridgeline",
+    "timestamp": "2026-09-29T19:31:40.694Z",
+    "status": "Active / Queued",
+    "reportedBy": "admin",
+    "role": "Station Admin"
+  },
+  {
+    "id": "INC-1790713036229",
+    "title": "Katabatic Gale Surge Detected",
+    "type": "Katabatic Gale Surge Detected",
+    "details": "Wind gusts exceeding 50 knots recorded by acoustic anemometer.",
+    "description": "Wind gusts exceeding 50 knots recorded by acoustic anemometer.",
+    "severity": "warning",
+    "location": "Maitri North Ridgeline",
+    "timestamp": "2026-09-29T20:17:16.229Z",
+    "status": "Active / Queued",
+    "reportedBy": "admin",
+    "role": "Station Admin"
+  }
+]

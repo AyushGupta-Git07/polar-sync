@@ -1,0 +1,63 @@
+[
+  {
+    "id": "INV-FUEL-01",
+    "nomenclature": "Arctic Diesel ATF-50 (Winterized -50°C)",
+    "depot": "Maitri Main Tank Farm 01",
+    "stock": 28180,
+    "unit": "Liters",
+    "dailyBurnRate": 540,
+    "daysLeft": 52.7,
+    "reorderThreshold": 10000,
+    "status": "Normal",
+    "statusCode": "good",
+    "currentStock": 28180
+  },
+  {
+    "id": "INV-RATION-01",
+    "nomenclature": "Emergency Freeze-Dried Nutrition Rations",
+    "depot": "Sub-Zero Provisions Vault Alpha",
+    "stock": 4200,
+    "unit": "kg",
+    "dailyBurnRate": 110,
+    "daysLeft": 38.1,
+    "reorderThreshold": 1200,
+    "status": "Normal",
+    "statusCode": "good"
+  },
+  {
+    "id": "INV-SPARE-01",
+    "nomenclature": "Cummins 250kVA Generator Oil & Air Filter Kits",
+    "depot": "Power Vault Spares Bay",
+    "stock": 4,
+    "unit": "Kits",
+    "dailyBurnRate": 1,
+    "daysLeft": 4,
+    "reorderThreshold": 8,
+    "status": "CRITICAL BUFFER (Gated by C-102)",
+    "statusCode": "critical"
+  },
+  {
+    "id": "INV-MED-01",
+    "nomenclature": "Trauma Cold-Chain Blood Plasma & Hypothermia Packs",
+    "depot": "Medical Clinic Cryo-Store",
+    "stock": 12,
+    "unit": "Cryo Packs",
+    "dailyBurnRate": 1,
+    "daysLeft": 12,
+    "reorderThreshold": 10,
+    "status": "Watch Status",
+    "statusCode": "warn"
+  },
+  {
+    "id": "INV-HYD-01",
+    "nomenclature": "PistenBully Arctic Viscosity Hydraulic Fluid (-55°C)",
+    "depot": "Hangar Bay 01 Lube Rack",
+    "stock": 850,
+    "unit": "Liters",
+    "dailyBurnRate": 18,
+    "daysLeft": 47.2,
+    "reorderThreshold": 300,
+    "status": "Normal",
+    "statusCode": "good"
+  }
+]

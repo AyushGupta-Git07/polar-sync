@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Schirmacher Shelf Crevasse Shear Zone Alpha",
+    "polygon": [
+      [
+        -70.65,
+        11.8
+      ],
+      [
+        -70.68,
+        12.1
+      ],
+      [
+        -70.71,
+        12.05
+      ],
+      [
+        -70.67,
+        11.75
+      ]
+    ],
+    "severity": "CRITICAL HAZARD - GPR REQUIRED"
+  }
+]

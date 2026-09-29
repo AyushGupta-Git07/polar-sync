@@ -1,0 +1,80 @@
+[
+  {
+    "id": "PB-04",
+    "name": "PistenBully 300 Polar Snowcat",
+    "type": "Heavy Terrain Prime Mover",
+    "location": "Waypoint 4 (Schirmacher Margin)",
+    "conditionPct": 42,
+    "hoursRun": 4120,
+    "serviceDueHours": 4000,
+    "status": "field_deployed",
+    "statusCode": "critical",
+    "rfidTag": "NCPOR-RFID-PB04-890",
+    "qrCode": "NCPOR-44ISEA-AST-PB04"
+  },
+  {
+    "id": "PB-07",
+    "name": "PistenBully 300 Polar Snowcat (Standby)",
+    "type": "Heavy Terrain Escort & Rescue",
+    "location": "Maitri Station Hangar Bay-01",
+    "conditionPct": 92,
+    "hoursRun": 1840,
+    "serviceDueHours": 2500,
+    "status": "Operational / Standby Relief Ready",
+    "statusCode": "good",
+    "rfidTag": "NCPOR-RFID-PB07-310",
+    "qrCode": "NCPOR-44ISEA-AST-PB07"
+  },
+  {
+    "id": "PB-02",
+    "name": "Kässbohrer Heavy Freight Sledge Tractor",
+    "type": "Ice Shelf Logistics Sledge",
+    "location": "Dakshin Gangotri Shelf Staging",
+    "conditionPct": 84,
+    "hoursRun": 2950,
+    "serviceDueHours": 3500,
+    "status": "Operational Staged",
+    "statusCode": "good",
+    "rfidTag": "NCPOR-RFID-PB02-120",
+    "qrCode": "NCPOR-44ISEA-AST-PB02"
+  },
+  {
+    "id": "GEN-01",
+    "name": "Cummins 250kVA Polar Generator Unit 01",
+    "type": "Primary Power Microgrid",
+    "location": "Station Power Vault Bus A",
+    "conditionPct": 96,
+    "hoursRun": 8120,
+    "serviceDueHours": 9000,
+    "status": "Online Nominal Load (118 kW)",
+    "statusCode": "good",
+    "rfidTag": "NCPOR-RFID-GEN01-550",
+    "qrCode": "NCPOR-44ISEA-AST-GEN01"
+  },
+  {
+    "id": "GEN-02",
+    "name": "Cummins 250kVA Polar Generator Unit 02",
+    "type": "Secondary Power Microgrid",
+    "location": "Station Power Vault Bus B",
+    "conditionPct": 68,
+    "hoursRun": 8450,
+    "serviceDueHours": 8500,
+    "status": "Overhaul Gated (Awaiting C-102 Filters)",
+    "statusCode": "warn",
+    "rfidTag": "NCPOR-RFID-GEN02-551",
+    "qrCode": "NCPOR-44ISEA-AST-GEN02"
+  },
+  {
+    "id": "H-01",
+    "name": "Kamov Ka-32 Polar Heavy Helicopter (VT-NCP)",
+    "type": "Aviation Air Support",
+    "location": "Maitri Helipad Apron",
+    "conditionPct": 94,
+    "hoursRun": 940,
+    "serviceDueHours": 1200,
+    "status": "Flight Ready (Weather Window Dependent)",
+    "statusCode": "good",
+    "rfidTag": "NCPOR-RFID-H01-998",
+    "qrCode": "NCPOR-44ISEA-AST-H01"
+  }
+]

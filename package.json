@@ -1,0 +1,23 @@
+{
+  "name": "polar-sync",
+  "version": "2.4.0",
+  "description": "NCPOR Antarctic Logistics, Cargo, Fleet, and Personnel Management System (44-ISEA)",
+  "scripts": {
+    "start": "node backend/server.js",
+    "start:backend": "node backend/server.js",
+    "start:frontend": "npm --prefix frontend run dev",
+    "build": "cd frontend && npm install && npm run build",
+    "build:frontend": "npm --prefix frontend run build",
+    "test": "node backend/test_all_features.js",
+    "test:integration": "node backend/test_all_features.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.3.1"
+  },
+  "author": "National Centre for Polar and Ocean Research (NCPOR), MoES, Govt. of India",
+  "license": "UNLICENSED"
+}

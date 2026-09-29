@@ -1,0 +1,17 @@
+{
+  "name": "polar-sync-backend",
+  "version": "2.0.0",
+  "description": "NCPOR POLAR-SYNC Antarctic Logistics & Expedition Management API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.9.5"
+  }
+}

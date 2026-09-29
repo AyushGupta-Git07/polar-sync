@@ -1,0 +1,30 @@
+[
+  {
+    "id": "ID-1790713040974-847",
+    "eventId": "EVT-OFFLINE-TEST-01",
+    "eventType": "CREATE_CARGO",
+    "payload": {
+      "containerId": "NCPOR-OFFLINE-C99",
+      "title": "Trauma First Aid & Plasma Field Kits",
+      "category": "Provisions",
+      "destination": "Bharati"
+    },
+    "timestamp": "2026-09-29T20:17:20.973Z",
+    "reconciledAt": "2026-09-29T20:17:20.974Z",
+    "clientDeviceId": "POLAR-NODE-01",
+    "serverSyncStatus": "COMMITTED"
+  },
+  {
+    "id": "ID-1790713041022-330",
+    "eventId": "EVT-OFFLINE-TEST-02",
+    "eventType": "UPDATE_STOCK",
+    "payload": {
+      "id": "INV-FUEL-01",
+      "change": -30
+    },
+    "timestamp": "2026-09-29T20:17:20.974Z",
+    "reconciledAt": "2026-09-29T20:17:21.022Z",
+    "clientDeviceId": "POLAR-NODE-01",
+    "serverSyncStatus": "COMMITTED"
+  }
+]

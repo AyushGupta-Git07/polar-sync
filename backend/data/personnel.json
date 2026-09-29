@@ -1,0 +1,103 @@
+[
+  {
+    "id": "NCPOR-44-01",
+    "name": "Dr. Arvind Shrivastava",
+    "role": "Expedition Leader (Chief Scientist)",
+    "department": "Executive & Science Direction",
+    "station": "Maitri Base",
+    "location": "Main Hab Alpha",
+    "vitals": {
+      "tempC": 36.8,
+      "heartRate": 72,
+      "spo2": 98
+    },
+    "bloodGroup": "O+",
+    "status": "Active on Station"
+  },
+  {
+    "id": "NCPOR-44-02",
+    "name": "Ashish Saini",
+    "role": "Operations & Logistics Officer",
+    "department": "Logistics & Supply Chain",
+    "station": "Maitri Base",
+    "location": "Logistics Terminal",
+    "vitals": {
+      "tempC": 36.7,
+      "heartRate": 74,
+      "spo2": 98
+    },
+    "bloodGroup": "B+",
+    "status": "Active on Station"
+  },
+  {
+    "id": "NCPOR-44-03",
+    "name": "Col. Rajesh Verma",
+    "role": "Station Commander & Safety Officer",
+    "department": "Station Administration",
+    "station": "Maitri Base",
+    "location": "Operations Bridge",
+    "vitals": {
+      "tempC": 36.6,
+      "heartRate": 68,
+      "spo2": 97
+    },
+    "bloodGroup": "A+",
+    "status": "Active on Station"
+  },
+  {
+    "id": "NCPOR-44-04",
+    "name": "Dr. Priya Deshmukh",
+    "role": "Chief Medical Officer",
+    "department": "Medical & Life Safety",
+    "station": "Maitri Base",
+    "location": "Trauma Bay Clinic",
+    "vitals": {
+      "tempC": 36.9,
+      "heartRate": 76,
+      "spo2": 99
+    },
+    "bloodGroup": "AB+",
+    "status": "Active on Duty"
+  },
+  {
+    "id": "NCPOR-44-05",
+    "name": "Suresh Nair",
+    "role": "Chief Mechanical Engineer",
+    "department": "Fleet & Microgrid Maintenance",
+    "station": "Maitri Base",
+    "location": "Hangar Bay 01",
+    "vitals": {
+      "tempC": 36.7,
+      "heartRate": 80,
+      "spo2": 98
+    },
+    "bloodGroup": "O+",
+    "status": "Active on Duty"
+  },
+  {
+    "id": "NCPOR-44-06",
+    "name": "Dr. Sandeep Kulkarni",
+    "role": "Lead Glaciologist (Field Alpha Lead)",
+    "department": "Glaciology & Ice Core Survey",
+    "station": "Maitri Base",
+    "location": "Field Team Alpha (Waypoint 4)",
+    "vitals": {
+      "tempC": 36.5,
+      "heartRate": 82,
+      "spo2": 96
+    },
+    "bloodGroup": "B+",
+    "status": "Field Sortie Active"
+  },
+  {
+    "id": "POLAR-9687",
+    "name": "Dr. Anita Joshi",
+    "role": "Expedition Officer",
+    "designation": "Expedition Officer",
+    "station": "Bharati",
+    "bloodGroup": "B+",
+    "hypothermiaRisk": "Nominal",
+    "status": "present",
+    "lastCheckin": "Just Registered"
+  }
+]

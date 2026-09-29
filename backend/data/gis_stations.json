@@ -1,0 +1,38 @@
+[
+  {
+    "id": "maitri",
+    "name": "Maitri Base (India)",
+    "sector": "Queen Maud Land (Schirmacher Oasis)",
+    "coords": [
+      -70.7663,
+      11.7333
+    ],
+    "elevationM": 117,
+    "status": "Operational Primary Hub",
+    "personnel": 38
+  },
+  {
+    "id": "bharati",
+    "name": "Bharati Base (India)",
+    "sector": "Larsemann Hills, East Antarctica",
+    "coords": [
+      -69.4075,
+      76.1872
+    ],
+    "elevationM": 35,
+    "status": "Operational Coastal Hub",
+    "personnel": 24
+  },
+  {
+    "id": "dakshin",
+    "name": "Dakshin Gangotri Staging Hut",
+    "sector": "Ice Shelf Coastal Edge",
+    "coords": [
+      -70.0833,
+      12
+    ],
+    "elevationM": 45,
+    "status": "Fuel Staging & Sledge Depot",
+    "personnel": 0
+  }
+]

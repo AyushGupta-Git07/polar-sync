@@ -1,0 +1,26 @@
+[
+  {
+    "id": "alpha",
+    "name": "Field Team Alpha (Glaciology)",
+    "coords": [
+      -70.72,
+      11.95
+    ],
+    "vehicle": "PB-04 Snowcat",
+    "leader": "Dr. Sandeep Kulkarni",
+    "personnelCount": 5,
+    "status": "Sortie Active (WP-4)"
+  },
+  {
+    "id": "bravo",
+    "name": "Field Team Bravo (Seismic & Core)",
+    "coords": [
+      -70.795,
+      11.55
+    ],
+    "vehicle": "PB-07 Snowcat",
+    "leader": "Dr. Priya Nair",
+    "personnelCount": 4,
+    "status": "Sortie Active (Wohlthat Margin)"
+  }
+]
